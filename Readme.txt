@@ -1,3 +1,5 @@
+Dataset used -> MNIST
+
 2.1
 
 Visulaizing the vanishing gradients probelem by initializing with the weights with various mean, SD for sigmoid, tanh and ReLU activation functions.
