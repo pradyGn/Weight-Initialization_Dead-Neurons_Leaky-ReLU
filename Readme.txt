@@ -10,3 +10,6 @@ Trying out the He Initialization technique to check if it mitigates vanishing gr
 
 Experimenting with Leaky ReLU and how it helps mitigating the Dead Neurons problem.
 Performed 1000 simulations of NYU HPC. Found that about 30% of simulations result in neural colapse when ReLU is used and 0% of simulations result in neural colapse when Leaky ReLU is used.
+
+Reference:
+https://intoli.com/blog/neural-network-initialization/
